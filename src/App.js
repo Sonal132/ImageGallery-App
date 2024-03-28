@@ -5,9 +5,7 @@ const App = () => {
   console.log('dishsshsh');
   return (
     <div>
-      <Home/>
-      
-      
+      <Home/>      
     </div>
   )
 }
